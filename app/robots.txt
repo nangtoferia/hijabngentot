@@ -1,4 +1,3 @@
 User-agent: *
 Disallow:
 Allow: /
-Sitemap: https://hijabngentot.pages.dev/sitemap.xml
